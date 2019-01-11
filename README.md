@@ -1,5 +1,6 @@
 # FrontEndStuff
-I'm uploading my basic front end exercises here
+I'm uploading my basic front end exercises here.
+You can download and unzip the the file to have a look.
 
 What's inside ?
  <br>1-) spectrum : 
