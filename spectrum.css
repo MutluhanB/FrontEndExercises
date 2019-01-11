@@ -1,0 +1,39 @@
+h1{
+  text-align: center;
+  font-family: 'Libre Barcode 128 Text';
+  font-size: 60px;
+  letter-spacing: 3px;
+}
+
+.table{
+  margin: auto;
+}
+
+.table tr:first-child td:nth-child(n){
+  background-color: black;
+  height: 300px;
+  width: 150px;
+  border: 10px solid white;;
+}
+
+.table tr:last-child td:nth-child(n){
+  text-align: center;
+  font-style: italic;
+  font-weight: bold;
+}
+
+#one{
+  background-color: #25283D;
+}
+#two{
+  background-color: #8F3985;
+}
+#three{
+  background-color: #A675A1;
+}
+#four{
+  background-color: #CEA2AC;
+}
+#five{
+  background-color: #EFD9CE;
+}
